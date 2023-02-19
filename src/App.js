@@ -4,7 +4,6 @@ import Contact from './components/pages/Contact';
 import Company from './components/pages/Company';
 import NewProject from './components/pages/NewProject';
 import Projects from './components/pages/Projects';
-
 import Container from './components/layouts/Container';
 import Navbar from './components/layouts/Navbar';
 import Footer from './components/layouts/Footer';
