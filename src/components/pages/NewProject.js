@@ -22,7 +22,7 @@ const NewProject = () => {
         console.log(data);
         //redirect
         navigate('/projects', {
-          state: { message: 'Projeto Criado com Sucesso!' },
+          state: { message: 'Projeto criado com sucesso!' },
         });
       })
       .catch((err) => {
